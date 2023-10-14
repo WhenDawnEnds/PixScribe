@@ -1,0 +1,14 @@
+{
+  "name": "pixscribe",
+  "version": "1.0.0",
+  "description": "🎨 A tool to add author information to an image, while being discreet.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.11.2"
+  }
+}
